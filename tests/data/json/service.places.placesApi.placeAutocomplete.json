@@ -1,0 +1,190 @@
+{
+  "predictions" : [
+    {
+      "description" : "Paris, France",
+      "id" : "691b237b0322f28988f3ce03e321ff72a12167fd",
+      "matched_substrings" : [
+        {
+          "length" : 5,
+          "offset" : 0
+        }
+      ],
+      "place_id" : "ChIJD7fiBh9u5kcRYJSMaMOCCwQ",
+      "reference" : "CjQlAAAAMGl65QI4Wk86KBnty23ZWTIZmKe_s-bYXL5MNWco1nYkxKug5dEtDAXbvCa5-VLeEhAaQECp4bXVC_Wj_vOybk3MGhQ83pzbMDFQz-unxFoZ0kqeJIQdmA",
+      "structured_formatting" : {
+        "main_text" : "Paris",
+        "main_text_matched_substrings" : [
+          {
+            "length" : 5,
+            "offset" : 0
+          }
+        ],
+        "secondary_text" : "France"
+      },
+      "terms" : [
+        {
+          "offset" : 0,
+          "value" : "Paris"
+        },
+        {
+          "offset" : 7,
+          "value" : "France"
+        }
+      ],
+      "types" : [ "locality", "political", "geocode" ]
+    },
+    {
+      "description" : "Pariser Platz, Berlin, Germany",
+      "id" : "0e85a595042c2602b2e86a4a9f4aaa4fe07d0bab",
+      "matched_substrings" : [
+        {
+          "length" : 5,
+          "offset" : 0
+        }
+      ],
+      "place_id" : "Eh5QYXJpc2VyIFBsYXR6LCBCZXJsaW4sIEdlcm1hbnk",
+      "reference" : "CjQiAAAABxYhY-KkwarTgiv30QEO2j5R8OfdbSckeVvF8qignV8fNTLkJbp72QLpQUWRMzaGEhDI_vz1kVp5ESxV-5bDzkauGhTUHQIxDwuBdt5fUOp87p5IfU0E6g",
+      "structured_formatting" : {
+        "main_text" : "Pariser Platz",
+        "main_text_matched_substrings" : [
+          {
+            "length" : 5,
+            "offset" : 0
+          }
+        ],
+        "secondary_text" : "Berlin, Germany"
+      },
+      "terms" : [
+        {
+          "offset" : 0,
+          "value" : "Pariser Platz"
+        },
+        {
+          "offset" : 15,
+          "value" : "Berlin"
+        },
+        {
+          "offset" : 23,
+          "value" : "Germany"
+        }
+      ],
+      "types" : [ "route", "geocode" ]
+    },
+    {
+      "description" : "Paris, TX, United States",
+      "id" : "518e47f3d7f39277eb3bc895cb84419c2b43b5ac",
+      "matched_substrings" : [
+        {
+          "length" : 5,
+          "offset" : 0
+        }
+      ],
+      "place_id" : "ChIJmysnFgZYSoYRSfPTL2YJuck",
+      "reference" : "CjQwAAAAOKsGYh3k9D1yzoII3N8ySeekQ-xRsPzHIHjp4bM0zkVFEbFibl_xTS6Ikh4ZZ-mVEhAD3gJ_MdhTjCMo2tly4sNmGhR6zl5hX_N5BwNu8-59EO-lqgOvQw",
+      "structured_formatting" : {
+        "main_text" : "Paris",
+        "main_text_matched_substrings" : [
+          {
+            "length" : 5,
+            "offset" : 0
+          }
+        ],
+        "secondary_text" : "TX, United States"
+      },
+      "terms" : [
+        {
+          "offset" : 0,
+          "value" : "Paris"
+        },
+        {
+          "offset" : 7,
+          "value" : "TX"
+        },
+        {
+          "offset" : 11,
+          "value" : "United States"
+        }
+      ],
+      "types" : [ "locality", "political", "geocode" ]
+    },
+    {
+      "description" : "Paris-Charles de Gaulle Airport, Roissy-en-France, France",
+      "id" : "e8f77f4687d16d9ffe5271a8ecb4a6bded1fb3f5",
+      "matched_substrings" : [
+        {
+          "length" : 5,
+          "offset" : 0
+        }
+      ],
+      "place_id" : "ChIJW89MjgM-5kcRLKZbL5jgKwQ",
+      "reference" : "ClRHAAAAoE_EybsKVjzlKqAPDYAkvdLXEB7SZdDGcE03omk8Z5Gy_YFOWzhvdxcfmWsURo2X_ZLTxBFoKe-00yms208K-7EB3p4lFTQRRLEaABtnLCoSEP672fx_FPr75500NQczHcMaFO7IB9xEXXrRcti6qAx0xE_MdzFN",
+      "structured_formatting" : {
+        "main_text" : "Paris-Charles de Gaulle Airport",
+        "main_text_matched_substrings" : [
+          {
+            "length" : 5,
+            "offset" : 0
+          }
+        ],
+        "secondary_text" : "Roissy-en-France, France"
+      },
+      "terms" : [
+        {
+          "offset" : 0,
+          "value" : "Paris-Charles de Gaulle Airport"
+        },
+        {
+          "offset" : 33,
+          "value" : "Roissy-en-France"
+        },
+        {
+          "offset" : 51,
+          "value" : "France"
+        }
+      ],
+      "types" : [ "establishment" ]
+    },
+    {
+      "description" : "Paris Gare de Lyon, Place Louis-Armand, Paris, France",
+      "id" : "bbc4781cfa22356b0a9f73de2206944076b4b4c5",
+      "matched_substrings" : [
+        {
+          "length" : 5,
+          "offset" : 0
+        }
+      ],
+      "place_id" : "ChIJS78AIBty5kcRZLsIMcKhPAA",
+      "reference" : "ClRCAAAAyjndZZkj6pfObhGHiQY5Ud0iZ9TfmQJzywgwimzWHh0d9-HJ1n0fCNtMW6XzvYRCfNxUkB9neFrPxV6jV7xAarLnyw2AjFuDHnOQAMDCDZ0SEGRjp-6d4KGcWHiIHRbUgScaFGhsjJCnwChXAYFDqozEGiC20AyV",
+      "structured_formatting" : {
+        "main_text" : "Paris Gare de Lyon",
+        "main_text_matched_substrings" : [
+          {
+            "length" : 5,
+            "offset" : 0
+          }
+        ],
+        "secondary_text" : "Place Louis-Armand, Paris, France"
+      },
+      "terms" : [
+        {
+          "offset" : 0,
+          "value" : "Paris Gare de Lyon"
+        },
+        {
+          "offset" : 20,
+          "value" : "Place Louis-Armand"
+        },
+        {
+          "offset" : 40,
+          "value" : "Paris"
+        },
+        {
+          "offset" : 47,
+          "value" : "France"
+        }
+      ],
+      "types" : [ "transit_station", "point_of_interest", "establishment", "geocode" ]
+    }
+  ],
+  "status" : "OK"
+}
