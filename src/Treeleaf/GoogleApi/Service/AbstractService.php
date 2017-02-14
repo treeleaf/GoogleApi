@@ -12,6 +12,13 @@ use Treeleaf\GoogleApi\Configurator\ConfiguratorInterface;
  */
 abstract class AbstractService
 {
+    const STATUS_OK = 'OK';
+    const STATUS_ZERO_RESULTS = 'ZERO_RESULTS';
+    const STATUS_OVER_QUERY_LIMIT = 'OVER_QUERY_LIMIT';
+    const STATUS_INVALID_REQUEST = 'INVALID_REQUEST';
+    const STATUS_NOT_FOUND = 'NOT_FOUND';
+    const STATUS_UNKNOWN_ERROR = 'UNKNOWN_ERROR';
+
     /**
      * @var Client
      */

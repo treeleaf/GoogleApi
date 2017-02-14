@@ -1,0 +1,138 @@
+{
+  "html_attributions" : [],
+  "result" : {
+    "address_components" : [
+      {
+        "long_name" : "Paris",
+        "short_name" : "Paris",
+        "types" : [ "locality", "political" ]
+      },
+      {
+        "long_name" : "Paris",
+        "short_name" : "Paris",
+        "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+        "long_name" : "Île-de-France",
+        "short_name" : "Île-de-France",
+        "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+        "long_name" : "France",
+        "short_name" : "FR",
+        "types" : [ "country", "political" ]
+      }
+    ],
+    "adr_address" : "\u003cspan class=\"locality\"\u003eParis\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eFrance\u003c/span\u003e",
+    "formatted_address" : "Paris, France",
+    "geometry" : {
+      "location" : {
+        "lat" : 48.85661400000001,
+        "lng" : 2.3522219
+      },
+      "viewport" : {
+        "northeast" : {
+          "lat" : 48.9021449,
+          "lng" : 2.4699208
+        },
+        "southwest" : {
+          "lat" : 48.815573,
+          "lng" : 2.225193
+        }
+      }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "id" : "691b237b0322f28988f3ce03e321ff72a12167fd",
+    "name" : "Paris",
+    "photos" : [
+      {
+        "height" : 2832,
+        "html_attributions" : [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/112389917759522176399/photos\"\u003eCyprien ZH\u003c/a\u003e"
+        ],
+        "photo_reference" : "CoQBdwAAAICZKJF9MdVfoqtRlKtmqw_OLLUdrb_MtUOxlk5-7w2N9i-o5mCAbYvgwbR8E7SrvBHUTOOHjVXhcs0SGSveabm4KNVyCMMBkhh9UejGvyL2HvnrtW0M4-N-IBmM5KP8DXihbW2ReNgoYQw3-7POgcwhfCLFxXYXejZUrd965v9oEhAlR4lAEeAeKhv4hqfUfCT1GhS1luF3HhQwvpBx1yMbabkuoWLxVA",
+        "width" : 4240
+      },
+      {
+        "height" : 4000,
+        "html_attributions" : [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/113216622530709818152/photos\"\u003ecarlos sebastian garcia arena\u003c/a\u003e"
+        ],
+        "photo_reference" : "CoQBdwAAAEwFt6-xtfDm4cPvbShtgJTVtzs5S8LggT9ZRHY4SbwRSYf9g3fBaDDCZi2O-Za6aNzsrl1nUedebT7KRXrx0-_va7vsdiUfOUQEjz-ym3HIeoPM9iLdrUtVM4ItUXPuiGUJL50kiun0wCOudn0TgtUFQghrKOGJIC9i4Ai6rwW4EhCEcB5PlUPyjab60tomrS1lGhSG-nmsv1nRY4tTyohgYbgWaiECyA",
+        "width" : 6000
+      },
+      {
+        "height" : 2848,
+        "html_attributions" : [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/109983477559905217030/photos\"\u003eChristophe Jacquet\u003c/a\u003e"
+        ],
+        "photo_reference" : "CoQBdwAAAPW4CdsMa9_AhkbY4NjMfkMhq7VugRYyZRjDh-m_2Eok-gu_yPi3hdr8_5xzJrmhcMq0hdshF4TOpCN1xPmGQ_LcrWmRE0AuniC-vDK5zRs5N__lTwyuKCK-KDuF_zf2S6y7_MxnYG9Ef8FW_aX9LLO26GQ3XkdspHm-57ZaeBInEhCBJHvyL4n7C4QGr71humBhGhT8knxt1V7riNUdnqc4DLCksXK7-g",
+        "width" : 4288
+      },
+      {
+        "height" : 1836,
+        "html_attributions" : [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/104748140977376079886/photos\"\u003eRick Boerema\u003c/a\u003e"
+        ],
+        "photo_reference" : "CoQBdwAAAP66HQlqI158x1CBPPk-Chm5syD-XyhVfpmiWUT0wpX1Y1nvja-NPMQ1cgOsLgoWXNHHjdm1hkn0Mkg24FG2yM3KDOrsFAND8r4Sq55DY4yW-cDpPHP-KIvHxj95FUWI-lcb8HsVcWh-B9sQJm-H0h7z7aqPwH8KC3hScMW6YX_ZEhDUbfz646EDFNpP5kAe2AfNGhRQ4w5LfLnj-IMrNrplD1rQyxOIlw",
+        "width" : 3264
+      },
+      {
+        "height" : 1365,
+        "html_attributions" : [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/109104673503451209616/photos\"\u003eVladas Portapas\u003c/a\u003e"
+        ],
+        "photo_reference" : "CoQBdwAAAImqxcpiEnjjFsl2J-LZE6PI-eQtBLLZM9z9blmRAdm6snyDLP_sWun1dmDd_lry9gw_ecnSfqNxEbjzKxkBjGT0JFkZaGe7CbMFuxMMc5uY6ZbT-CCPZadmstWw7ed6j1QiEyqGSwEJROZ1Haymrwd0ZfvFDy5eDs9zei2Yl9bsEhAXIuM23o0ZebYjVDSAcmB6GhTobNYadNut09ZUO2oPDJ_tFt3raw",
+        "width" : 2048
+      },
+      {
+        "height" : 2988,
+        "html_attributions" : [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/118078716569423595563/photos\"\u003eSüleyman Sahinkaya\u003c/a\u003e"
+        ],
+        "photo_reference" : "CoQBdwAAABh-jUELUDlZ-OfmuPwnJqDf1w0n6CsYOsWtV5CKfcn-1FXfH9xPatRo19Kt-lpUORsx0zeOotfG5DNQTn5JOOL9GZXxKyXD26A7jPZJ1wYKSXksZ37pSCUoItxaimUEqWyqsWDm0WroM9gHXKvm7oXbrwwPRTMkpbr0RDZpiht4EhAqSI5_ML3B1dfXsIA_KOfpGhSY4lJyuUR0RNEr9XD6BQuupXWNRQ",
+        "width" : 5312
+      },
+      {
+        "height" : 2992,
+        "html_attributions" : [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/114614416788795967982/photos\"\u003eAurelien Rivat\u003c/a\u003e"
+        ],
+        "photo_reference" : "CoQBdwAAAOZ25Y9U80-Kvw1VH93DYUKebkCU7z2hKpM3UbE7VifS2UdSjNp27FJlWKEyKH6LzyyDZtnwa0v5Cfv3HWxFHPxOrLNb3OMAR3ixutyiEzl9v47qFfoMb0Cv7ZpD35MakCwQrBTmp5oicttSjC5lBSW11ytJxHqQO_aBIBdVsZoYEhB_uar0vA9Z61LD922DmVyWGhQbMKGmaLQotCIKm6h0_B0dpn-r2A",
+        "width" : 4000
+      },
+      {
+        "height" : 1836,
+        "html_attributions" : [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/103254488700643994117/photos\"\u003eChristophe B\u003c/a\u003e"
+        ],
+        "photo_reference" : "CoQBcwAAACcLB1ToiaPN-e_3qmxtPvZshX7JGzSRhGOuw-0mBc3avg0E3_7MaldnomQCSCxevbopce6hJmRehzFaVgaz3WzHSRRgRmnyyDl_Jg4mg30H4uhuoMZtDOiKfXQFCm9ER0RXHg_y1TC76CPBGerNyE5sOmhfEmGZwrDXRUjf09cyEhCQ4JtZTLm1VWBC4Q1_r3PsGhRGzy0rGkBQJ9nyOpGF5-zfPEjBHw",
+        "width" : 3264
+      },
+      {
+        "height" : 3136,
+        "html_attributions" : [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/108925266640365927564/photos\"\u003eMercédes BRISON\u003c/a\u003e"
+        ],
+        "photo_reference" : "CoQBdwAAADCfu6fJzxVZcfTgphtjcZTXvImJL_HrMxeEocdal4Ku0JjwY8cLxlu62-GtO8Gm7rUnXFcYd4TorrMik6AkovGxKiiMBmK1shtyrMCID_k-iigHCwOzWux0zxPWjKT3953chEf4pgmhC9ub13K3k9Y0CuO_Y6ZfcwBtniCjw2KVEhARG-VN-S3nhwhP7PG_kz6WGhTm0jjLkm_e0czQYhDnvlPVz94JHw",
+        "width" : 4992
+      },
+      {
+        "height" : 2554,
+        "html_attributions" : [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/105548774816617309520/photos\"\u003evitry frederic\u003c/a\u003e"
+        ],
+        "photo_reference" : "CoQBdwAAAFNNvVmxyEVQb4Kb5l9wZ4UDS3hBZAbDQnwqFl8tIBMpBhPhMK3mLA96NCCL4I2hAC_2X3V0qU0BqBkOTBdqSiUqQzCkzVzN5A1pCKW-nRBfNAW8ZphIKOq3R83rKl_zScb_InMghgfsiFQ4f7cFNxd2CMrlzTRdokmUbsjrVnIrEhC-g12C6dt5fogIPXyKIbeLGhQjQhbpMNo4pQ8NRCDxrTBy9FvqRA",
+        "width" : 5184
+      }
+    ],
+    "place_id" : "ChIJD7fiBh9u5kcRYJSMaMOCCwQ",
+    "reference" : "CmRbAAAA14ds4hKrbr40u7rwZ7WywKGrhQr_oubsiS6o-pjLF-pOtEyEDGUBsmS2gtIEbLA1lmRGPJpVCTUuygqbc1TZ-v-DqEH-AX3B0NfEvgzkVrlJjTS0B8xS0uMsA5R9ejdWEhDJppVZjg2a9feo8s4FRaPzGhTXChUktAfmmatnuFJg1zqIY381dg",
+    "scope" : "GOOGLE",
+    "types" : [ "locality", "political" ],
+    "url" : "https://maps.google.com/?q=Paris,+France&ftid=0x47e66e1f06e2b70f:0x40b82c3688c9460",
+    "utc_offset" : 60,
+    "vicinity" : "Paris"
+  },
+  "status" : "OK"
+}
